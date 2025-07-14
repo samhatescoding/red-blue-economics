@@ -38,9 +38,12 @@ The analysis explores how economic performance — measured through GDP growth, 
 
 ## Files
 
-- `essay.pdf`: Full written analysis of the study
-- `code.R`: R script used to clean, analyze, and visualize the data
-- `data.csv`: Source dataset used in the project
+| File         | Description                                    |
+|--------------|------------------------------------------------|
+| `code.R`     | Full R script for analysis and plots           |
+| `essay.pdf`  | Written report with explanation and results    |
+| `data.csv`   | Cleaned dataset                                |
+| `images/`    | Generated figures (histograms, tables, matrix) |
 
 ## Key Findings
 
@@ -50,6 +53,29 @@ The analysis explores how economic performance — measured through GDP growth, 
   - Higher GDP growth
   - Lower inequality, poverty, and unemployment
 - Correlation between unemployment and poverty unexpectedly negative
+
+## Sample Visuals
+
+### Scatterplot Matrix
+Correlations between economic indicators and total electability:
+
+![scatterplot_matrix](images/scatterplot_matrix.png)
+
+---
+
+### GDP Growth Histogram
+
+Histogram of annual GDP growth, with mean, median, and variance lines:
+
+![histogram_gdp](images/histogram_gdp.png)
+
+---
+
+### Frequency Table (Rounded GDP Values)
+
+![freq_gdp](images/freq_gdp.png)
+
+---
 
 ## Output
 
