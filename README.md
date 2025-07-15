@@ -1,5 +1,5 @@
 # red-blue-economics
-This repository contains the code and essay for a project I did for my Statistic class. The goal is to analyze the correlation between key economic indicators and the political party in power in the United States from 1964 to 2022.
+This repository contains the code and essay for a project I did for a Probability & Statistic class at the University of Barcelona in 2024. The goal is to analyze the correlation between key economic indicators and the political party in power in the United States from 1964 to 2022.
 
 ## Project Overview
 
